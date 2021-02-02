@@ -1,8 +1,8 @@
 ---
 template: BlogPost
-path: /test123
-date: 2021-02-02T03:38:13.944Z
-title: 'Hello World Test #2'
+path: /artifact2
+date: 2021-02-01T03:38:13.944Z
+title: Artifact 2
 thumbnail: /assets/20191218_GS_003.png
 ---
 Lorem ipsum dolor sit amet, saepe nostrum id eos, eam no augue noster platonem. Iisque postulant reprimique ex nam. Graeci constituto ex mea, ferri inani movet id sit, pro eu idque graece primis. Ut mel rebum deserunt sadipscing, pro omnis denique rationibus ut.
