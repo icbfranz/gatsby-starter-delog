@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /Artifact3
+path: /artifact3
 date: 2021-02-02T03:38:13.944Z
 title: Artifact 3
 thumbnail: /assets/20191218_GS_003.png
