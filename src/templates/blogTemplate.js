@@ -2,7 +2,6 @@ import React from "react"
 import Helmet from 'react-helmet';
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-<head><link rel="stylesheet" href="https://use.typekit.net/jzs1ced.css"></head>
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
