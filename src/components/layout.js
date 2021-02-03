@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} AdvTech &bull; Crafted with <span role="img" aria-label="love">❤️</span> by Bruce</p>
+        <p>&copy; {new Date().getFullYear()} AdvTech &bull; Made by Bruce</p>
       </footer>
     </div>
   )
