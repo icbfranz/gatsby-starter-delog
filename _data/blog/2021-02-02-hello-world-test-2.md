@@ -1,16 +1,12 @@
 ---
 template: BlogPost
-path: /artifact2
+path: /sensors
 date: 2021-02-01T03:38:13.944Z
-title: Artifact 2
-thumbnail: /assets/20191218_GS_003.png
+title: Solving Environmental Problems with Sensors
+thumbnail: /assets/515b4656ce395f8a38000000.png
 ---
-Lorem ipsum dolor sit amet, saepe nostrum id eos, eam no augue noster platonem. Iisque postulant reprimique ex nam. Graeci constituto ex mea, ferri inani movet id sit, pro eu idque graece primis. Ut mel rebum deserunt sadipscing, pro omnis denique rationibus ut.
+I plan to build something with the arduino sensor kit. I have just started to play with the sensors so I'm not entirely sure what I want to build yet and how it will solve an environmental problem. I am interested in pursuing building something with the sensors because not only do they fansicate me but they can be applied to solve real environmental problems. It will help build my programming skills as well learn a new type of language. I have also never really applied my technological skills to physical object besides sawyer. 
 
-Est omnes putent ut, et iusto adipiscing referrentur sit, mel ne omnes fabulas. Sea viderer aliquid eu. Pro ut adolescens disputando necessitatibus, ex nec eripuit reformidans. Pri esse petentium ne, detracto tincidunt vix te.
+I am going to rely heavily on the help guides that arduino provides so I can get better at coding programs  as well as get better at building the ciructs. 
 
-Ne mucius regione vulputate his, modus docendi quo et. Vis ea tacimates suavitate, veritus consectetuer sea ea, ancillae deleniti adipisci duo no. Pro te quando viderer, quo eu graeco honestatis, ullum pericula in per. Id ius illum repudiandae, no est rebum autem delenit. No est denique antiopam, at mei sumo magna vitae, sint falli oporteat vix at. Labores ullamcorper ne vis.
-
-Vel dicit apeirian quaerendum cu, an cibo electram periculis sed. Vim volumus philosophia consectetuer ei. Ea mentitum reprehendunt vel, sed persius detracto id. Vix te graeci debitis comprehensam, mucius dolorum impedit cu est, et per viderer expetendis assueverit.
-
-At liber commodo aliquip per, vidit ludus altera cu qui. Vix commodo delectus id. Ut eum labitur maiorum, possit pericula maiestatis in eam. In eos putant labores disputando. Te suas lorem quaeque qui, id vidit populo lobortis eum. Et sed case quidam, id vel putant latine, essent admodum no est.
+I found some create help guides here: [Arduino help center](https://support.arduino.cc/hc/en-us).
