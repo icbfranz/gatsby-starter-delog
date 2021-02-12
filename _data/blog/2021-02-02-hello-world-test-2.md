@@ -10,3 +10,5 @@ I plan to build something with the arduino sensor kit. I have just started to pl
 I am going to rely heavily on the help guides that arduino provides so I can get better at coding programs  as well as get better at building the ciructs. 
 
 I found some create help guides here: [Arduino help center](https://support.arduino.cc/hc/en-us).
+
+I think that this project will take 15 hours.
