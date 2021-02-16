@@ -5,6 +5,12 @@ date: 2021-02-15T15:38:00.000Z
 title: 'Building a Weather Station With Arduino  '
 thumbnail: /assets/IMG_1716roate.jpeg
 ---
+
+
+# Introduction
+
+
+
 ![](/assets/IMG_1716roate.jpeg)
 
 I plan to build something with the arduino sensor kit. I have just started to play with the sensors so I'm not entirely sure what I want to build yet and how it will solve an environmental problem. I am interested in pursuing building something with the sensors because not only do they fansicate me but they can be applied to solve real environmental problems. It will help build my programming skills as well learn a new type of language. I have also never really applied my technological skills to physical object besides sawyer. 
@@ -16,4 +22,5 @@ I found some create help guides here: [Arduino help center](https://support.ardu
 I think that this project will take 15 hours.
 
 # Embed Test - A video about the project will go here.
-<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6QUXBqv2Pk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/EJu8htgnm5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
