@@ -14,3 +14,6 @@ I am going to rely heavily on the help guides that arduino provides so I can get
 I found some create help guides here: [Arduino help center](https://support.arduino.cc/hc/en-us).
 
 I think that this project will take 15 hours.
+
+# Embed Test - A video about the project will go here.
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6QUXBqv2Pk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
