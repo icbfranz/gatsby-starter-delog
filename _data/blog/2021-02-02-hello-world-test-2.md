@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: '/arduino '
+path: /arduino
 date: 2021-02-16T15:38:00.000Z
 title: 'Building a Weather Station With Arduino  '
 thumbnail: /assets/IMG_1716roate.jpeg
