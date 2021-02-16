@@ -5,7 +5,27 @@ date: 2021-02-16T15:38:00.000Z
 title: 'Building a Weather Station With Arduino  '
 thumbnail: /assets/IMG_1716roate.jpeg
 ---
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/EJu8htgnm5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div class="video-responsive">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJu8htgnm5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<style>
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    margin-right:auto;
+    margin-left:auto;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+</style>
 
 # Introduction
 
