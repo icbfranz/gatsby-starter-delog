@@ -39,6 +39,18 @@ To accommodate extra power and ground locations a breadboard was used. The senso
 
 To make the rain detection work an IF statement was used. Simply put if rain was detected print "Rain!". ELSE print "      ". The else statement must be blank to accommodate for the removal of "Rain!".
 
+# A Real-World Application 
+
+When building this device I imagined how I could scale it up to apply it to real-world application. The idea I came up with was a hyperlocal weather app. As of now we rely on radar and expensive weather stations, what if we could delpy a network of these to areas were weather information is less accurate? The information that is then compiled from the sensors would be stored in a server and then data would be sent over the air (OTA). With my implementation in conjunction with the OTA element we would have one of most accurate weather apps in the world. The only thing we would need is more sensors! 
+
+To take this a step further, if we combined the data being collected from the sensors and the data coming from conventional weather stations/radar we could use artificial intelligence (AI) and machine learning (ML) to predict weather events and use the weather station that I built to send more accurate information to users and to confirm that it is indeed raining. 
+
+# Wrapping Up
+
+The primary reason that I built this weather station was to aid in my learning in the internet-of-things (IOT) space. IOT devices are starting to be the backbone of our daily lives. It would also be super cool to deploy a network of these and analyze the data and compare it to a weather app or historical weather data. 
+
+While this was my first time coding in C++ and using Arduino boards it was a super interesting experience to actually pull things from the real-world and have the device react to those changes. Normally all the programming I do is "virtual", an example being web design. The real struggle of this project was wiring the board, this is where I spent most of time on Google and on Youtube. Overall, I am super happy the way that this turned out!
+
 # Code
 
 ```cpp
