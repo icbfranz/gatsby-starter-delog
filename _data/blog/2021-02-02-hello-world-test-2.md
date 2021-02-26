@@ -41,7 +41,7 @@ To make the rain detection work an IF statement was used. Simply put if rain was
 
 # A Real-World Application
 
-When building this device I imagined how I could scale it up to apply it to real-world application. The idea I came up with was a hyperlocal weather app. As of now we rely on radar and expensive weather stations, what if we could deploy a network of these to areas were weather information is less accurate? The information that is then compiled from the sensors would be stored in a server and then data would be sent over the air (OTA). With my implementation in conjunction with the OTA element we would have one of most accurate weather apps in the world. The only thing we would need is more sensors! 
+When building this device I imagined how I could scale it up to apply it to real-world application. The idea I came up with was a hyperlocal weather app. As of now we rely on radar and expensive weather stations, what if we could deploy a network of these to areas where weather information is less accurate? The information that is then compiled from the sensors would be stored in a server and then data would be sent over the air (OTA). With my implementation in conjunction with the OTA element we would have one of most accurate weather apps in the world. The only thing we would need is more sensors! 
 
 To take this a step further, if we combined the data being collected from the sensors and the data coming from conventional weather stations/radar we could use artificial intelligence (AI) and machine learning (ML) to predict weather events and use the weather station that I built to send more accurate information to users and to confirm that it is indeed raining. 
 
