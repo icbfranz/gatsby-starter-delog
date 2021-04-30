@@ -7,7 +7,7 @@ thumbnail: /assets/IMG_1716roate.jpeg
 ---
 <div class="video-responsive">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EJu8htgnm5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AMAUcPJ385g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <style>
 .video-responsive{
